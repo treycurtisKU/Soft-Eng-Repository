@@ -1,0 +1,1 @@
+int isOdd(int number);
